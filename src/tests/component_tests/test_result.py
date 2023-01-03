@@ -1,4 +1,4 @@
-from reading_list import view
+from reading_list import run
 
 def test_output():
-    view.main()
+    run.main()

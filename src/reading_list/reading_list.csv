@@ -1,6 +1,13 @@
-name, type, priority
-crickenomics, non-fiction, 1
-Outliers, non-fiction, 0
-Why We Sleep, non-fiction, 1
-Modern Man In Search of a Soul, 0
-How to Spend $75 Billion to make the world a better place, 2
+name, type, position, length
+crickenomics, non-fiction, , long
+Outliers, non-fiction, , long
+Why We Sleep, non-fiction, , long
+Modern Man In Search of a Soul, non-fiction, , long
+How to Spend $75 Billion to make the world a better place, non-fiction, , short
+Austin Kleon, non-fiction, , short
+The Checklist Manifesto, non-fiction, , medium
+The Organised Mind, non-fiction, medium
+Reasons To Stay Alive, non-fiction, , short
+A 4 Hour Work Week, non-fiction, , short
+On the Shortness of Life, non-fiction, short
+This is Your Brain On Birth Control, non-fiction, , short
