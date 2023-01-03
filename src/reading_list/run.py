@@ -12,6 +12,11 @@ TODO: Change this back to a view class
 This is the classic MVC example
 Perhaps try with SQLite instead of csv and make the interface be able
 to handle both
+
+TODO: Hopefully the hashing of the list also obscures the massive list of things infront
+of you
+TODO: Obviously need to prioritise books that I have already purchased too
+
 """
 class IncorrectInputError():
     ...
