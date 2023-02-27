@@ -3,7 +3,8 @@ from pathlib import Path
 import random
 
 """
-TODO: Make it so the book info is hashed with a password so when uploaded to github it is not open to everyone
+TODO: Make it so the book info is hashed with a password so when uploaded to
+github it is not open to everyone
 or for now add the file to git ignore
 TODO: Add films and TV
 TODO: Add the ability to add/edit/remove books
@@ -18,7 +19,7 @@ of you
 TODO: Obviously need to prioritise books that I have already purchased too
 
 """
-class IncorrectInputError():
+class IncorrectInputError(Exception):
     ...
 
 def main():
